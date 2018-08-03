@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B7BB56FA-5BE4-43B9-9EF1-A27CC69A22FB}</ProjectGuid>
-    <RootNamespace>ModerCPPFunc</RootNamespace>
+    <ProjectGuid>{0ED84F78-C4A5-4EFF-9F04-1F3E2CCEECF7}</ProjectGuid>
+    <RootNamespace>FuncPrograming</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,7 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Composefunc.cpp" />
+    <ClCompile Include="CurryMain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

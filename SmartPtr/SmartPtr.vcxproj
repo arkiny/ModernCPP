@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B7BB56FA-5BE4-43B9-9EF1-A27CC69A22FB}</ProjectGuid>
-    <RootNamespace>ModerCPPFunc</RootNamespace>
+    <ProjectGuid>{C9475EDE-7CF4-4EED-8DCC-89BF9B93F337}</ProjectGuid>
+    <RootNamespace>SmartPtr</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
